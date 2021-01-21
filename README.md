@@ -1,4 +1,6 @@
 # Align trajectory
+参考博文：https://blog.csdn.net/u011341856/article/details/109113247
+
 
 This codes can be used to align trajectory. And show trajectory, show position after alignment, etc.
 
